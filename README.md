@@ -1,20 +1,20 @@
 ## 🚗 Sistema de Automação de Abastecimento
 
-### 1. 📄 **Resumo do Projeto**
+### 1. 📄 <u>**Resumo do Projeto**</u>
 Este projeto automatiza o processo de inserção de dados de abastecimento de veículos em um sistema web desenvolvido pela **S&S Informática**, que é utilizado para o controle da frota de veículos municipais. O sistema de veículos visa atender às exigências do Tribunal de Contas do Estado (TCE), especialmente no que se refere ao envio de informações através do **Sistema de Informações Municipais (SIM)**.
 
 A automação é construída em **Python** utilizando a biblioteca **Selenium**. A solução lê informações de um arquivo **Excel** e preenche automaticamente os campos de um formulário online de abastecimento de veículos. Com isso, o tempo gasto no preenchimento manual é significativamente reduzido e os erros humanos são eliminados, garantindo conformidade e eficiência no controle da frota.
 
 
 
-### 2. 🎯 **Objetivos**
+### 2. 🎯 <u>**Objetivos**</u>
 - Automatizar o **registro de abastecimentos** em um sistema de gestão.
 - Aumentar a **precisão e eficiência**, minimizando erros manuais.
 - Facilitar o **controle e a gestão** dos registros de abastecimento.
 
 
 
-### 3. 🚀 **Principais Funcionalidades**
+### 3. 🚀 <u>**Principais Funcionalidades**</u>
 - **Login automático** no sistema de gestão de abastecimento.
 - **Preenchimento automático de formulários** com dados como placa, quilometragem, litros e combustível.
 - **Integração com arquivos Excel** para leitura e inserção de dados.
@@ -23,7 +23,7 @@ A automação é construída em **Python** utilizando a biblioteca **Selenium**.
 
 
 
-### 4. ⚙️ **Processo de Automação**
+### 4. ⚙️ <u>**Processo de Automação**</u>
 A automação deste projeto segue um fluxo contínuo de operações, permitindo que grandes volumes de dados sejam processados com rapidez e precisão.
 
 ### 🔄 Etapas do Processo:
@@ -35,7 +35,7 @@ A automação deste projeto segue um fluxo contínuo de operações, permitindo 
 
 
 
-### 5. 🛠 **Requisitos**
+### 5. 🛠 <u>**Requisitos**</u>
 - **Python 3.12**: Linguagem principal do projeto.
 - **Selenium**: Biblioteca para automação de navegador.
 - **Pandas**: Biblioteca para leitura e manipulação de dados.
@@ -44,7 +44,7 @@ A automação deste projeto segue um fluxo contínuo de operações, permitindo 
 
 
 
-### 6. 📊 **Resultados Esperados**
+### 6. 📊 <u>**Resultados Esperados**</u>
 - **Redução de até 80% no tempo** de registro manual.
 - **Precisão de 95%** nos dados inseridos.
 - **Aumento da produtividade**, liberando a equipe para tarefas estratégicas.
@@ -52,14 +52,14 @@ A automação deste projeto segue um fluxo contínuo de operações, permitindo 
 
 
 
-### 7. 🏆 **Benefícios do Sistema**
+### 7. 🏆 <u>**Benefícios do Sistema**</u>
 - **Eficiência**: Automação rápida e precisa, eliminando o tédio, erros e cansaço do processo manual.
 - **Escalabilidade**: Capacidade de lidar com grandes volumes de dados.
 - **Controle de Qualidade**: Garantia da integridade dos dados, com planilhas padronizadas e validação automática.
 
 
 
-### 8. 📝 **Observações Finais e Melhorias Futuras**
+### 8. 📝 <u>**Observações Finais e Melhorias Futuras**</u>
 
 #### 🔒 **Dados Fictícios**
 Os dados utilizados nos arquivos deste projeto são totalmente **fictícios**, servindo apenas para fins de desenvolvimento, teste e demonstração. Nenhuma informação real ou sensível foi usada ou armazenada.
@@ -82,7 +82,7 @@ O projeto ainda pode evoluir muito com base nas necessidades específicas dos us
 
 ---
 
-### **Contato**
+<h4>Contato</h4>
 
 Se você tiver dúvidas, sugestões ou deseja colaborar com este projeto, sinta-se à vontade para entrar em contato:
 
