@@ -1,13 +1,13 @@
 ## 🚗 Sistema de Automação de Abastecimento
 
-### <h4>1. 📄 <u>Resumo do Projeto</u></h4>
+### <h3>1. 📄 <u>Resumo do Projeto</u></h3>
 Este projeto automatiza o processo de inserção de dados de abastecimento de veículos em um sistema web desenvolvido pela **S&S Informática**, que é utilizado para o controle da frota de veículos municipais. O sistema de veículos visa atender às exigências do Tribunal de Contas do Estado (TCE), especialmente no que se refere ao envio de informações através do **Sistema de Informações Municipais (SIM)**.
 
 A automação é construída em **Python** utilizando a biblioteca **Selenium**. A solução lê informações de um arquivo **Excel** e preenche automaticamente os campos de um formulário online de abastecimento de veículos. Com isso, o tempo gasto no preenchimento manual é significativamente reduzido e os erros humanos são eliminados, garantindo conformidade e eficiência no controle da frota.
 
 
 
-### 2. 🎯 <u>**Objetivos**</u>
+### <h3>2. 🎯 <u>Objetivos</u></h3>
 - Automatizar o **registro de abastecimentos** em um sistema de gestão.
 - Aumentar a **precisão e eficiência**, minimizando erros manuais.
 - Facilitar o **controle e a gestão** dos registros de abastecimento.
